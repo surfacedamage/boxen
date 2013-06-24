@@ -15,7 +15,6 @@ class neo::environment {
   include iterm2::stable
   include macvim
   include onepassword
-  include dropbox
 
   # os customizations
   include osx::global::expand_print_dialog
